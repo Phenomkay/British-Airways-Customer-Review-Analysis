@@ -69,7 +69,7 @@ To address these challenges, we implemented the following steps:
 
 #### **Sentiment Analysis:**
 
-![Sentiment Distribution](British-Airways-Customer-Review-Analysis/sentiment%20analysis.png)
+[sentiment analysis.png](https://github.com/Phenomkay/British-Airways-Customer-Review-Analysis/blob/0ab3decbe6512ac1e95ac55093c08727bfde2e5c/sentiment%20analysis.png)
 
 - **Negative Reviews**: 500 reviews.
 - **Positive Reviews**: Over 1,000 reviews.
@@ -79,7 +79,7 @@ The analysis shows that British Airways has received a significantly higher numb
 
 #### **Topic Modeling:**
 
-![Topic Modeling](British-Airways-Customer-Review-Analysis/topic%20modelling.png)
+[topic modelling.png](https://github.com/Phenomkay/British-Airways-Customer-Review-Analysis/blob/0ab3decbe6512ac1e95ac55093c08727bfde2e5c/topic%20modelling.png)
 
 We identified five key topics discussed by customers:
 
@@ -100,7 +100,8 @@ We identified five key topics discussed by customers:
 
 #### **Word Cloud Visualization:**
 
-![Word Cloud](British-Airways-Customer-Review-Analysis/word%20clouds.png)
+[word clouds.png
+](https://github.com/Phenomkay/British-Airways-Customer-Review-Analysis/blob/0ab3decbe6512ac1e95ac55093c08727bfde2e5c/word%20clouds.png)
 
 - The word cloud highlights frequent words such as "British," "Airways," "flight," "London," and "Heathrow," indicating that these terms are central themes in customer feedback.
   
