@@ -73,7 +73,7 @@ To address these challenges, we implemented the following steps:
 
 - **Negative Reviews**: 500 reviews.
 - **Positive Reviews**: Over 1,000 reviews.
-- **Neutral Reviews**: Over 400 reviews.
+- **Neutral Reviews**: Over 50 reviews.
 
 The analysis shows that British Airways has received a significantly higher number of positive reviews compared to negative and neutral ones. Neutral reviews reflect an experience that met expectations but wasn’t exceptional.
 
